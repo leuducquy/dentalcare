@@ -14,8 +14,7 @@ const Home = () => {
           let us brighten your smile
         </h2>
         <p className="py-5 leading-8 text-light-color">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-          Laudantium itaque, quasi aliquam alias tempora voluptatibus.
+        Welcome to our Dental Care Store, where your oral health is our top priority! At our store, we are committed to providing you with a comprehensive range of dental care products to help you achieve and maintain a bright, healthy smile. From daily oral hygiene essentials to specialized treatments, we've got everything you need to keep your teeth and gums in optimal condition.
         </p>
         <Button text='make appointment' />
       </div>

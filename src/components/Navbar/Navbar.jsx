@@ -46,7 +46,7 @@ const Navbar = () => {
               nav ? "text-white" : "text-black"
             }`}
           >
-            Dental<span className="text-blue">Care.</span>
+            Dentist<span className="text-blue">Care.</span>
           </h1>
         </Link>
         <div className="hidden md:flex">

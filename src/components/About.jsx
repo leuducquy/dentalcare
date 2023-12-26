@@ -19,10 +19,7 @@ const About = () => {
             True Healthcare For Your Family
           </h2>
           <p className="py-5 leading-8 text-light-color">
-            Lorem, Ipsum Dolor Sit Amet Consectetur Adipisicing Elit.
-            Laboriosam Cupiditate Vero In Provident Ducimus. Totam Quas
-            Labore Mollitia Cum Nisi, Sint, Expedita Rem Error Ipsa,
-            Nesciunt Ab Provident. Aperiam, Officiis!
+          At our Dental Care Store, we are not just a retailer; we are your partners in oral health. We are committed to fostering a positive and educational shopping experience, where you can access the latest innovations in dental care. Visit us today and let us help you smile confidently with our quality dental care products. Your journey to a healthier, happier smile starts here!
           </p>
           <Button text='make appointment' />
         </div>

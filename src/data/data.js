@@ -48,37 +48,37 @@ export const servicesData = [
   {
     img: ImgOne,
     title: 'Alignment Specialist',
-    desc: 'Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Fugiat, Non?'
+    desc: 'Our Dental Alignment Specialists are highly trained and experienced in the art and science of orthodontics. Whether you are dealing with misaligned teeth, bite issues, or other dental concerns, our specialists have the knowledge and skills to assess your unique situation and recommend the most effective alignment solutions.'
 
   },
   {
     img: ImgTwo,
     title: 'Cosmetic Dentistry',
-    desc: 'Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Fugiat, Non?'
+    desc: 'Welcome to our Cosmetic Dentistry practice, where we blend artistry with dentistry to create stunning smiles that radiate confidence and beauty. Our Cosmetic Dentistry team is dedicated to enhancing your smile aesthetics while prioritizing your oral health. Discover a world of personalized and transformative dental care designed to make you look and feel your absolute best.'
 
   },
   {
     img: ImgThree,
     title: 'Oral Hygiene Experts',
-    desc: 'Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Fugiat, Non?'
+    desc: 'Our Oral Hygiene Experts believe in the power of education. We are here to guide you through the fundamentals of oral hygiene, offering insights into proper brushing and flossing techniques, the importance of regular dental check-ups, and tips for maintaining a healthy lifestyle that positively impacts your oral well-being.'
 
   },
   {
     img: ImgFour,
     title: 'Root Canal Specialist',
-    desc: 'Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Fugiat, Non?'
+    desc: 'Our Root Canal Specialists are highly trained in the field of endodontics, focusing on the diagnosis and treatment of issues affecting the innermost portion of the tooth, known as the pulp. Whether you are experiencing severe tooth pain, sensitivity, or other symptoms, our specialists are skilled in identifying and addressing root canal issues with precision.'
 
   },
   {
     img: ImgFive,
     title: 'Live Dental Advisory',
-    desc: 'Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Fugiat, Non?'
+    desc: 'Need answers to your dental questions right away? Our Live Dental Advisory service offers you instant access to experienced dental professionals who are ready to provide expert advice, guidance, and solutions. Whether you have questions about oral hygiene, dental treatments, or general concerns, our advisors are here to assist you promptly.'
 
   },
   {
     img: ImgSix,
     title: 'Cavity Inspection',
-    desc: 'Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit. Fugiat, Non?'
+    desc: 'At our Cavity Inspection dental care, we employ advanced techniques and technology to conduct comprehensive cavity inspections. Our experienced dental professionals use visual examinations, digital imaging, and diagnostic tools to detect cavities in their early stages, allowing for prompt intervention and preventive care.'
   }
 ]
 
@@ -131,13 +131,13 @@ export const footerData = [
   {
     icon: faPhone,
     title: 'Phone Number',
-    Firstsubtitle: '+123-456-7890',
-    Secondsubtitle: '+111-222-3333'
+    Firstsubtitle: '+84 966494779',
+    Secondsubtitle: '+123-456-7890'
   },
   {
     icon: faLocation,
     title: 'Our Address',
-    Firstsubtitle: 'Shiraz, Iran - 1234',
+    Firstsubtitle: '360 Giải Phóng, Thanh Xuân, Hà Nội',
 
   },
   {
@@ -148,7 +148,7 @@ export const footerData = [
   {
     icon: faEnvelope,
     title: 'Email Address',
-    Firstsubtitle: 'e.saadat72@gmail.com',
-    Secondsubtitle: 'e.saadat7293@gmail.com'
+    Firstsubtitle: 'leuducquy@gmail.com',
+  
   },
 ]
