@@ -1,13 +1,8 @@
 import React from "react";
 // fontawesome
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-interface SelectionProps {
-  icon: any;
-  title: string;
-  Firstsubtitle: string;
-  Secondsubtitle: string;
-}
-const FooterItems = ({ icon, title,Firstsubtitle,Secondsubtitle }: SelectionProps)  => {
+
+const FooterItems = ({item :{ icon, title,Firstsubtitle,Secondsubtitle }})  => {
   return (
     <div className="text-center">
       <FontAwesomeIcon
