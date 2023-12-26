@@ -1,5 +1,5 @@
 import React from "react";
-import FooterItems from "./FooterItems";
+import FooterItems from "./FooterItems.jsx";
 // react scroll
 import { Link } from "react-scroll";
 // fontawesome
